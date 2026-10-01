@@ -1,0 +1,6 @@
+build/
+*.o
+data/merged.geojson
+data/sessions/
+data/processed/*.csv
+!data/processed/classes.txt
